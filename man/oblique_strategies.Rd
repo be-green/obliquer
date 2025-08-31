@@ -5,7 +5,7 @@
 \alias{oblique_strategies}
 \title{Oblique Strategies}
 \format{
-An object of class \code{character} of length 101.
+An object of class \code{character} of length 222.
 }
 \usage{
 oblique_strategies
@@ -14,6 +14,6 @@ oblique_strategies
 Oblique Strategies
 }
 \details{
-A dataset of Brian Eno's Oblique Strategies
+A dataset of Brian Eno and Peter Schmidt's Oblique Strategies
 }
 \keyword{datasets}
