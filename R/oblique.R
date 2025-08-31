@@ -6,5 +6,5 @@
 #' @details A new way of looking at things
 #' @export
 oblique = function() {
-  cat(sample(oblique_strategies, 1))
+  cat(sample(get("oblique_strategies"), 1))
 }
